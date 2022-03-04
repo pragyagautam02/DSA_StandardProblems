@@ -1,0 +1,61 @@
+<section class="ftco-section" style="margin-top: 2px;" id="ambu">
+      <h1 style="text-align: center; text-shadow:1px 1px black; "><b>Types Of Ambulance</b></h1>
+      <br>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+
+            <div class="slider-hero">
+              <div class="featured-carousel owl-carousel">
+                <div class="item">
+                  <div class="">
+                    <img src="images/Basic_ambu.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="work">
+                    <!-- <div class="img d-flex align-items-center justify-content-center"
+                      style="background-image: url(images/Advance_ambu.png);">
+                    </div> -->
+                    <img src="images/Advance_ambu.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+
+                <div class="item">
+                  <div class="work">
+                    <!-- <div class="img d-flex align-items-center justify-content-center"
+                      style="background-image: url(images/Local_ambu.png);">
+                    </div> -->
+                    <img src="images/Local_ambu.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="work">
+                    <!-- <div id="book1" class="img d-flex align-items-center justify-content-center"
+                      style="background-image: url(images/Mortuary_ambu.png);">
+                    </div> -->
+                    <img src="images/Mortuary_ambu.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <!--<div class="book_button" style="margin-left: 75px; margin-top:18px;">
+                <p><a href="tel:+91-7317687003">Book Now</a></p>
+              </div>-->
+              <div class="booking-btn text-center">
+                <p><a href="tel:18003098689"><b>Book Now</b></a></p>
+              </div>
+            
+              <div class="my-5 text-center">
+                <ul class="thumbnail">
+                  <li class="active img"><a href="#"><img src="images/4-modified.png" alt="Image" class="img-fluid"></a>
+                  </li>
+                  <li><a href="#"><img src="images/Thumbnail_1 (2).png" alt="Image" class="img-fluid"></a></li>
+                  <li><a href="#"><img src="images/Thumbnail_3 (2)-modified.png" alt="Image" class="img-fluid"></a></li>
+                  <li><a href="#"><img src="images/Thumbnail_4 (2).png" alt="Image" class="img-fluid"></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
